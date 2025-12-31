@@ -1,25 +1,35 @@
-# Jeferson Tengan Portfolio
+# Jeferson Tengan - Portfolio Profissional
 
-This is a modern, responsive personal portfolio website designed for hosting on **GitHub Pages**.
+Bem-vindo ao repositório do meu portfólio pessoal. Este projeto foi desenvolvido para apresentar minha trajetória profissional, competências técnicas e projetos na área de Dados e Tecnologia.
 
-## Features
-- **Modern Design**: Dark mode with neon gradients and glassmorphism effects.
-- **Responsive**: Fully optimized for mobile, tablet, and desktop.
-- **Data-Driven**: Customized with your professional experience and skills.
+## Sobre o Projeto
 
-## How to Deploy to GitHub Pages
+Este site foi criado como um cartão de visita digital, utilizando tecnologias web modernas para oferecer uma experiência visual agradável e responsiva. O objetivo é centralizar informações sobre minha carreira como **Coordenador de Dados** e **Tech Lead**.
 
-1.  **Commit and Push**: Ensure all files (`index.html`, `styles.css`, `README.md`) are committed and pushed to your GitHub repository.
-2.  **Go to Settings**: Navigate to your repository on GitHub.
-3.  **Pages**: On the left sidebar, click on **Pages**.
-4.  **Source**: Under "Build and deployment", select **GitHub Actions** (if using a workflow) OR **Deploy from a branch**.
-    - If "Deploy from a branch", select `main` (or `master`) and `/ (root)`.
-5.  **Save**: Click Save. GitHub will build your site.
-6.  **Visit**: After a minute, your site will be live at `https://<username>.github.io/<repo-name>/`.
+## Tecnologias Utilizadas
 
-## How to Edit
+O desenvolvimento foi focado em performance e design limpo, sem dependência de frameworks pesados:
 
-To update your information:
-1.  Open `index.html` in any text editor (VS Code, Notepad, etc.).
-2.  Edit the text between the tags (e.g., change experience descriptions).
-3.  Save and commit the changes.
+*   **HTML5 Semântico**: Estrutura acessível e organizada.
+*   **CSS3 Moderno**:
+    *   *Glassmorphism*: Efeito de vidro fosco para os cards.
+    *   *Gradients*: Uso de gradientes neon para identidade visual.
+    *   *Flexbox & Grid*: Layouts responsivos que se adaptam a qualquer dispositivo.
+    *   *CSS Variables*: Fácil manutenção de temas e cores.
+*   **Design Responsivo**: Otimizado para Desktop, Tablets e Smartphones.
+
+## Conteúdo
+
+O portfólio inclui:
+*   **Sobre Mim**: Resumo profissional e trajetória.
+*   **Experiência (Timeline)**: Linha do tempo interativa com histórico profissional (IT Lab, Santander, J&J, etc.).
+*   **Habilidades**: Tags visuais destacando stacks como Python, GCP, Machine Learning e BI.
+*   **Formação**: Detalhes sobre MBA e graduação.
+
+## Links
+
+*   [LinkedIn](https://www.linkedin.com/in/jefersontengan/)
+*   [GitHub](https://github.com/jeferson-github)
+
+---
+*Desenvolvido com foco em Data Science e Inovação.*
