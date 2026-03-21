@@ -1,35 +1,32 @@
 # Jeferson Tengan - Portfolio Profissional
 
-Bem-vindo ao repositório do meu portfólio pessoal. Este projeto foi desenvolvido para apresentar minha trajetória profissional, competências técnicas e projetos na área de Dados e Tecnologia.
+Este repositório reúne o código do meu portfolio pessoal. A proposta do projeto é apresentar minha trajetória em dados e tecnologia de um jeito claro, visualmente cuidado e fácil de navegar.
 
 ## Sobre o Projeto
 
-Este site foi criado como um cartão de visita digital, utilizando tecnologias web modernas para oferecer uma experiência visual agradável e responsiva. O objetivo é centralizar informações sobre minha carreira como **Coordenador de Dados** e **Tech Lead**.
+O site funciona como uma apresentação profissional da minha atuação como **Coordenador de Dados** e **Tech Lead**, reunindo experiência, capacidades técnicas e formação em uma interface leve e responsiva.
 
 ## Tecnologias Utilizadas
 
-O desenvolvimento foi focado em performance e design limpo, sem dependência de frameworks pesados:
+O projeto foi desenvolvido sem dependência de frameworks pesados, com foco em simplicidade, performance e manutenção:
 
-*   **HTML5 Semântico**: Estrutura acessível e organizada.
-*   **CSS3 Moderno**:
-    *   *Glassmorphism*: Efeito de vidro fosco para os cards.
-    *   *Gradients*: Uso de gradientes neon para identidade visual.
-    *   *Flexbox & Grid*: Layouts responsivos que se adaptam a qualquer dispositivo.
-    *   *CSS Variables*: Fácil manutenção de temas e cores.
-*   **Design Responsivo**: Otimizado para Desktop, Tablets e Smartphones.
+* **HTML5 semântico**: Estrutura organizada e acessível.
+* **CSS3 moderno**: Tipografia, gradientes, superfícies translúcidas e layout responsivo.
+* **Grid, Flexbox e variáveis CSS**: Consistência visual e evolução mais simples do projeto.
+* **JavaScript leve**: Interações sutis de navegação e revelação de conteúdo.
 
 ## Conteúdo
 
-O portfólio inclui:
-*   **Sobre Mim**: Resumo profissional e trajetória.
-*   **Experiência (Timeline)**: Linha do tempo interativa com histórico profissional (IT Lab, Santander, J&J, etc.).
-*   **Habilidades**: Tags visuais destacando stacks como Python, GCP, Machine Learning e BI.
-*   **Formação**: Detalhes sobre MBA e graduação.
+O portfolio inclui:
+* **Perfil**: Resumo da forma como atuo entre negócio, analytics, arquitetura e entrega.
+* **Experiência**: Recorte das posições mais relevantes da minha trajetória profissional.
+* **Capacidades**: Principais competências em dados, plataforma e liderança.
+* **Formação**: MBA e formação complementar ligados à minha atuação.
 
 ## Links
 
-*   [LinkedIn](https://www.linkedin.com/in/jefersontengan/)
-*   [GitHub](https://github.com/jeferson-github)
+* [LinkedIn](https://www.linkedin.com/in/jefersontengan/)
+* [GitHub](https://github.com/jeff-tengan)
 
 ---
-*Desenvolvido com foco em Data Science e Inovação.*
+Projeto pessoal focado em dados, tecnologia e comunicação clara.
